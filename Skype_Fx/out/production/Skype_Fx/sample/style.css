@@ -1,0 +1,67 @@
+.parent{
+    -fx-background-color: #ffffff;
+}
+.sidebar{
+    -fx-background-color: #30ACF3
+}
+.titlebar{
+    -fx-background-color: #E4E2E4;
+    }
+
+.close_but{
+    -fx-background-color: #FC5657;
+    -fx-background-radius: 100%;
+    }
+.close_but:hover{
+     -fx-background-color: red;
+     -fx-background-radius: 100%;
+     }
+.min_but{
+     -fx-background-color: #29CC41;
+     -fx-background-radius: 100%;
+     }
+.min_but:hover{
+      -fx-background-color: green;
+      -fx-background-radius: 100%;
+      }
+.max_but{
+       -fx-background-color: #FDBC40;
+       -fx-background-radius: 100%;
+       }
+.max_but:hover{
+        -fx-background-color: yellow;
+        -fx-background-radius: 100%;
+        }
+.online_logo{
+    -fx-background-color: #29CC41;
+         -fx-background-radius: 100%;
+}
+.contack_list{
+    -fx-background-color:transparent;
+}
+.contack_list:hover{
+    -fx-background-color: #0093E9;
+}
+.profile{
+    -fx-border-color: #FFFFFF;
+    -fx-border-style: solid
+    -fx-border-width: 1px 0px 0px 0px;
+}
+.profile2{
+    -fx-border-color: #000000;
+    -fx-border-style: solid
+    -fx-border-width: 0px 0px 3px 0px;
+}
+.massg_tool{
+    -fx-background-radius: 10px;
+    -fx-background-color: #F4E2E4;
+}
+.textfild{
+         -fx-border-color: #000000;
+            -fx-border-style: solid
+            -fx-border-width: 0px 0px 3px 0px;
+                -fx-border-radius: 50px;
+                                -fx-background-radius: 50px;
+
+                    -fx-background-color: #F4E2E4;
+}
